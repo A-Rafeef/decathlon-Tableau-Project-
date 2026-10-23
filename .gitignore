@@ -1,0 +1,34 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.swp
+*.swo
+*~
+
+# Temporary transfers, logs, and generated caches
+.upload_tmp/
+tmp/
+temp/
+*.tmp
+*.temp
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Local credentials and private content
+.env
+.env.*
+!.env.example
+credentials/
+secrets/
+*.pem
+*.key
+private/
+confidential/
+data/local/
+
+# Tableau recovery files; keep .twb and .twbx deliverables trackable
+*.twbr
