@@ -1,0 +1,13 @@
+facility_id,facility_name,facility_type,country,state,city,specialty_department,iso_certified,max_monthly_capacity_units
+FAC-301,Decathlon Textile Tech Hub Tirupur,In-House Manufacturing,India,Tamil Nadu,Tirupur,Technical Apparel & Backpacks,Yes,450000
+FAC-302,Decathlon Footwear Hub Ambur,In-House Manufacturing,India,Tamil Nadu,Ambur,Footwear & Running Shoes,Yes,380000
+FAC-303,Decathlon B'Twin Assembly Plant Ludhiana,In-House Manufacturing,India,Punjab,Ludhiana,Bicycle Assembly,Yes,95000
+FAC-304,Decathlon Chennai Mobility Works,Strategic Partner,India,Tamil Nadu,Chennai,Bicycle Assembly,Yes,180000
+FAC-305,Surat Performance Technical Knitwear,Strategic Partner,India,Gujarat,Surat,Technical Apparel,Yes,220000
+FAC-306,Dehradun Mountain Prototype & Ski Lab,In-House Manufacturing,India,Uttarakhand,Dehradun,Winter Sports & Skis,Yes,65000
+FAC-307,Bangalore Active Cotton Unit,Strategic Partner,India,Karnataka,Bangalore,Team Sports & Basics,Yes,320000
+FAC-308,Noida Running & Fitness Apparel Hub,Strategic Partner,India,Uttar Pradesh,Noida,Fitness & Running Apparel,Yes,400000
+FAC-309,Pune Precision Composites Lab,Strategic Partner,India,Maharashtra,Pune,Racket & Bike Frames,Yes,110000
+FAC-310,Goa Coastal Marine Molding & Plastics,Strategic Partner,India,Goa,Panaji,Water Sports & Helmets,Yes,290000
+FAC-311,Kochi Coastal Marine Atelier,Strategic Partner,India,Kerala,Kochi,Water Sports & Sailing,Yes,85000
+FAC-312,Pune Heavy Metal & Strength Lab,In-House Manufacturing,India,Maharashtra,Pune,Fitness Weights & Benches,Yes,190000

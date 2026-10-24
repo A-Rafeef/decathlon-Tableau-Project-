@@ -1,0 +1,15 @@
+store_id,store_name,store_format,country,state,city,floor_size_sqm,opened_date,manager_employee_id,reporting_currency
+STR-101,Decathlon Bangalore Anubhava Campus (HQ),Flagship / Campus,India,Karnataka,Bangalore,6200,2013-10-05,EMP-1001,INR
+STR-102,Decathlon Mumbai R-City Mall Ghatkopar,Flagship / Campus,India,Maharashtra,Mumbai,5100,2017-12-01,EMP-1015,INR
+STR-103,Decathlon Delhi Pacific Mall Tagore Garden,Standard Big-Box,India,Delhi NCR,New Delhi,3400,2016-04-20,EMP-1029,INR
+STR-104,Decathlon Mumbai Atria Mall Worli City Hub,City Express / Hub,India,Maharashtra,Mumbai,1100,2019-11-15,EMP-1038,INR
+STR-105,Decathlon Hyderabad Shamshabad Campus,Flagship / Campus,India,Telangana,Hyderabad,4800,2015-08-18,EMP-1043,INR
+STR-106,Decathlon Gurgaon DLF CyberHub,Standard Big-Box,India,Haryana,Gurgaon,3200,2018-02-22,EMP-1057,INR
+STR-107,Decathlon Chennai OMR Padur,Standard Big-Box,India,Tamil Nadu,Chennai,3600,2014-06-14,EMP-1066,INR
+STR-108,Decathlon Bangalore Brigade Road City Hub,City Express / Hub,India,Karnataka,Bangalore,950,2021-03-10,EMP-1075,INR
+STR-109,Decathlon Pune Wakad Campus,Flagship / Campus,India,Maharashtra,Pune,5400,2016-09-25,EMP-1080,INR
+STR-110,Decathlon Kolkata Salt Lake Sector V,City Express / Hub,India,West Bengal,Kolkata,1200,2019-05-12,EMP-1094,INR
+STR-111,Decathlon Noida Sector 38 Mall of India,Flagship / Campus,India,Uttar Pradesh,Noida,5000,2017-10-18,EMP-1099,INR
+STR-112,Decathlon Ahmedabad Alpha One Mall,Standard Big-Box,India,Gujarat,Ahmedabad,2600,2018-07-14,EMP-1113,INR
+STR-113,Decathlon Chandigarh Zirakpur Campus,Flagship / Campus,India,Punjab,Chandigarh,5800,2015-11-05,EMP-1122,INR
+STR-114,Decathlon Kochi Lulu Mall Edappally,Standard Big-Box,India,Kerala,Kochi,2900,2018-12-01,EMP-1136,INR

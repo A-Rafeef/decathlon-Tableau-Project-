@@ -1,0 +1,71 @@
+product_id,product_name,passion_brand,sport_department,target_segment,unit_cost,unit_price,eco_design_flag,lifecycle_status,currency
+PRD-1001,Quechua 2 Seconds Easy Fresh & Black 2-Person Camping Tent,Quechua,Outdoor & Trekking,Adults Unisex,4320.0,8999.1,1,Active,INR
+PRD-1002,Quechua MH500 Waterproof Hiking Jacket Men,Quechua,Outdoor & Trekking,Men,2565.0,5399.1,1,Active,INR
+PRD-1003,Quechua MH500 Waterproof Hiking Jacket Women,Quechua,Outdoor & Trekking,Women,2565.0,5399.1,1,Active,INR
+PRD-1004,Quechua NH100 Arpenaz 10L Hiking Backpack,Quechua,Outdoor & Trekking,Adults Unisex,189.0,449.1,1,Active,INR
+PRD-1005,Quechua MH100 Warm Mountain Fleece Men,Quechua,Outdoor & Trekking,Men,585.0,1349.1,1,Active,INR
+PRD-1006,Quechua MH100 Warm Mountain Fleece Women,Quechua,Outdoor & Trekking,Women,585.0,1349.1,1,Active,INR
+PRD-1007,Forclaz Trek 100 Waterproof Hiking Boots Men,Forclaz,Outdoor & Trekking,Men,3510.0,7199.1,0,Active,INR
+PRD-1008,Forclaz Trek 100 Waterproof Hiking Boots Women,Forclaz,Outdoor & Trekking,Women,3510.0,7199.1,0,Active,INR
+PRD-1009,Forclaz MT500 Air 50+10L Backpacking Pack,Forclaz,Outdoor & Trekking,Adults Unisex,4680.0,9899.1,1,Active,INR
+PRD-1010,Quechua Air Comfort Inflatable Camping Mattress 140cm,Quechua,Outdoor & Trekking,Adults Unisex,1440.0,3149.1,0,Active,INR
+PRD-1011,Forclaz MT500 Ultra-Light Trekking Pole Pair,Forclaz,Outdoor & Trekking,Adults Unisex,1125.0,2429.1,0,Active,INR
+PRD-1012,Quechua MH500 Stainless Steel Camping Cookset 2P,Quechua,Outdoor & Trekking,Adults Unisex,1170.0,2519.1,1,Active,INR
+PRD-1013,Rockrider ST 540 Mountain Bike 27.5 Inch Hydraulic Disc,Rockrider,Cycling,Adults Unisex,19350.0,40499.1,0,Active,INR
+PRD-1014,Rockrider ST 100 Mountain Bike 27.5 Inch,Rockrider,Cycling,Adults Unisex,12150.0,25199.1,0,Active,INR
+PRD-1015,Triban RC 520 Shimano 105 Disc Road Bike,Triban,Cycling,Adults Unisex,36900.0,76499.1,0,Active,INR
+PRD-1016,Triban RC 120 Disc Road Bike,Triban,Cycling,Adults Unisex,21600.0,44999.1,0,Active,INR
+PRD-1017,B'Twin Elops 520 Classic City Dutch Bike Women,B'Twin,Cycling,Women,14850.0,29699.1,0,Active,INR
+PRD-1018,B'Twin Elops 520 Classic City Dutch Bike Men,B'Twin,Cycling,Men,14850.0,29699.1,0,Active,INR
+PRD-1019,B'Twin Tilt 500 Folding Commuter Bike 20 Inch,B'Twin,Cycling,Adults Unisex,15750.0,31499.1,0,Active,INR
+PRD-1020,B'Twin 500 Kids 16-Inch Bike with Training Wheels,B'Twin,Cycling,Kids,6480.0,13499.1,0,Active,INR
+PRD-1021,Rockrider MTB Helmet ST 500 Adjustable,Rockrider,Cycling,Adults Unisex,1620.0,3599.1,1,Active,INR
+PRD-1022,B'Twin 500 Floor Bike Pump with Dual Gauge,B'Twin,Cycling,Adults Unisex,855.0,2069.1,0,Active,INR
+PRD-1023,Van Rysel RCR Pro Carbon Fiber Road Shoes,Van Rysel,Cycling,Adults Unisex,7650.0,15299.1,0,New Arrival,INR
+PRD-1024,B'Twin 920 High Security D-Lock Sold Secure Gold,B'Twin,Cycling,Adults Unisex,1305.0,2969.1,0,Active,INR
+PRD-1025,Kiprun KD900X Carbon Plate Marathon Shoes Men,Kiprun,Running & Athletics,Men,6120.0,13499.1,0,Active,INR
+PRD-1026,Kiprun KD900X Carbon Plate Marathon Shoes Women,Kiprun,Running & Athletics,Women,6120.0,13499.1,0,Active,INR
+PRD-1027,Kalenji Run Cushion Jogging Shoes Men,Kalenji,Running & Athletics,Men,1035.0,2249.1,1,Active,INR
+PRD-1028,Kalenji Run Cushion Jogging Shoes Women,Kalenji,Running & Athletics,Women,1035.0,2249.1,1,Active,INR
+PRD-1029,Kiprun Warm Regul Windproof Running Jacket Men,Kiprun,Running & Athletics,Men,2160.0,4499.1,1,Active,INR
+PRD-1030,Kiprun Warm Regul Windproof Running Jacket Women,Kiprun,Running & Athletics,Women,2160.0,4499.1,1,Active,INR
+PRD-1031,Kalenji Dry Breathable Running T-Shirt Men,Kalenji,Running & Athletics,Men,378.0,809.1,1,Active,INR
+PRD-1032,Kalenji Dry Breathable Running T-Shirt Women,Kalenji,Running & Athletics,Women,378.0,809.1,1,Active,INR
+PRD-1033,Kiprun Trail Running 10L Ultra Hydration Vest,Kiprun,Running & Athletics,Adults Unisex,2790.0,6299.1,1,Active,INR
+PRD-1034,Kalenji 500 Touchscreen Running Armband,Kalenji,Running & Athletics,Adults Unisex,405.0,899.1,0,Active,INR
+PRD-1035,Kiprun Run 900 Anti-Blister Compression Socks,Kiprun,Running & Athletics,Adults Unisex,468.0,1169.1,1,Active,INR
+PRD-1036,Domyos 500 Foldable Multi-Position Weight Bench,Domyos,Fitness & Gym,Adults Unisex,4950.0,10799.1,0,Active,INR
+PRD-1037,Domyos Hex Dumbbell 10kg Single Rubber Coated,Domyos,Fitness & Gym,Adults Unisex,1440.0,3149.1,0,Active,INR
+PRD-1038,Domyos Hex Dumbbell 5kg Pair Cast Iron,Domyos,Fitness & Gym,Adults Unisex,1170.0,2519.1,0,Active,INR
+PRD-1039,Domyos 100 Essential Cross-Training Mat 15mm,Domyos,Fitness & Gym,Adults Unisex,765.0,1799.1,1,Active,INR
+PRD-1040,Domyos Cardio Aerobic Step 500 Non-Slip,Domyos,Fitness & Gym,Adults Unisex,1980.0,4499.1,0,Active,INR
+PRD-1041,Domyos Fabric Resistance Glute Bands 3-Pack,Domyos,Fitness & Gym,Adults Unisex,495.0,1169.1,1,Active,INR
+PRD-1042,Domyos MS500 Mini Stepper with Resistance Cord,Domyos,Fitness & Gym,Adults Unisex,2520.0,5399.1,0,Active,INR
+PRD-1043,Domyos 500 Seamless High Support Sports Bra,Domyos,Fitness & Gym,Women,810.0,1799.1,1,Active,INR
+PRD-1044,Domyos Slim-Fit Gym Jogging Bottoms Men,Domyos,Fitness & Gym,Men,765.0,1709.1,1,Active,INR
+PRD-1045,Domyos 20kg Cast Iron Dumbbell Weight Kit,Domyos,Fitness & Gym,Adults Unisex,2610.0,5399.1,0,Active,INR
+PRD-1046,Itiwit 2-Person Inflatable Touring Kayak 100,Itiwit,Water Sports,Adults Unisex,14400.0,29699.1,0,Active,INR
+PRD-1047,Subea Easybreath 500 Full Face Snorkel Mask,Subea,Water Sports,Adults Unisex,1305.0,2969.1,1,Active,INR
+PRD-1048,Itiwit 100 Inflatable Stand-Up Paddleboard 10ft,Itiwit,Water Sports,Adults Unisex,13050.0,26999.1,0,Active,INR
+PRD-1049,Tribord Sailing Windproof Waterproof Jacket 100 Men,Tribord,Water Sports,Men,2340.0,4949.1,1,Active,INR
+PRD-1050,Tribord Sailing Windproof Waterproof Jacket 100 Women,Tribord,Water Sports,Women,2340.0,4949.1,1,Active,INR
+PRD-1051,Nabaiji Microfibre Pool Towel XL 110x175cm,Nabaiji,Water Sports,Adults Unisex,342.0,809.1,1,Active,INR
+PRD-1052,Nabaiji Xbase Swimming Goggles Clear Anti-Fog,Nabaiji,Water Sports,Adults Unisex,180.0,449.1,0,Active,INR
+PRD-1053,Nabaiji Kamyleon Chlorine Resistant Swimsuit Women,Nabaiji,Water Sports,Women,855.0,1979.1,1,Active,INR
+PRD-1054,Nabaiji Boxer 100 Swimming Trunks Men,Nabaiji,Water Sports,Men,450.0,1079.1,1,Active,INR
+PRD-1055,Itiwit 50N Certified Buoyancy Aid Kayak Vest,Itiwit,Water Sports,Adults Unisex,1080.0,2249.1,0,Active,INR
+PRD-1056,Wedze Boost 500 All-Mountain Downhill Skis + Bindings,Wedze,Winter Sports,Adults Unisex,16200.0,33299.1,0,Active,INR
+PRD-1057,Wedze Ski-P 500 Waterproof Warm Ski Jacket Men,Wedze,Winter Sports,Men,4050.0,8999.1,1,Active,INR
+PRD-1058,Wedze Ski-P 500 Waterproof Warm Ski Jacket Women,Wedze,Winter Sports,Women,4050.0,8999.1,1,Active,INR
+PRD-1059,Wedze 500 Anti-Fog Dual-Lens Ski Goggles,Wedze,Winter Sports,Adults Unisex,1170.0,2699.1,0,Active,INR
+PRD-1060,Wedze Stream 500 Ski and Snowboard Helmet,Wedze,Winter Sports,Adults Unisex,1620.0,3599.1,0,Active,INR
+PRD-1061,Wedze FreshWarm Thermal Ski Base Layer Top Men,Wedze,Winter Sports,Men,675.0,1529.1,1,Active,INR
+PRD-1062,Wedze FreshWarm Thermal Ski Base Layer Top Women,Wedze,Winter Sports,Women,675.0,1529.1,1,Active,INR
+PRD-1063,Wedze 500 Waterproof Thermal Ski Gloves,Wedze,Winter Sports,Adults Unisex,990.0,2249.1,0,Active,INR
+PRD-1064,Kipsta F500 Hybrid Match Football FIFA Basic Size 5,Kipsta,Team Sports,Adults Unisex,675.0,1619.1,0,Active,INR
+PRD-1065,Kipsta Agility 500 FG Moulded Football Boots,Kipsta,Team Sports,Men,1530.0,3329.1,0,Active,INR
+PRD-1066,Kipsta Tarmak BT500 High-Grip Basketball Size 7,Kipsta,Team Sports,Adults Unisex,810.0,1799.1,0,Active,INR
+PRD-1067,Kuikma PR 990 Precision Soft Carbon Padel Racket,Kuikma,Racket Sports,Adults Unisex,4680.0,9899.1,0,Active,INR
+PRD-1068,Artengo TR500 Graphite Tennis Racket 280g,Artengo,Racket Sports,Adults Unisex,2880.0,6299.1,0,Active,INR
+PRD-1069,Inesis 100 Adult Golf Complete 7-Club Set Right Hand,Inesis,Golf,Men,8550.0,17999.1,0,Active,INR
+PRD-1070,Inesis Distance 100 Golf Balls 12-Pack,Inesis,Golf,Adults Unisex,540.0,1169.1,0,Active,INR
