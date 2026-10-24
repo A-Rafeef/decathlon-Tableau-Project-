@@ -15,7 +15,7 @@ Repository for the Tableau Intern Project Sprint, covering business requirements
 ```
 
 - `data/`: Data approved for sharing in this repository.
-- `docs/`: Combined DAD, BRD, and FRD requirements; mockups; data dictionary; data-quality log; calculation register; QA checklist; and issue log.
+- `docs/`: Separate DAD, BRD, and FRD requirements documents; mockups; data dictionary; data-quality log; calculation register; QA checklist; and issue log.
 - `tableau_workbook/`: Draft and final Tableau packaged workbooks (`.twbx`).
 - `screenshots/`: Dashboard pages and key interactions.
 
@@ -23,9 +23,15 @@ Each folder contains a `.gitkeep` placeholder so Git can retain it while empty. 
 
 ## Project status
 
-The folder structure and [combined DAD, BRD, and FRD requirements document](docs/Decathlon_Combined_Requirements_DAD_BRD_FRD.pdf) are prepared. The nine-page PDF is based on the supplied `v12.twbx` and sprint brief. It covers the dataset model, business questions, KPI definitions, dashboard behavior, acceptance checks, and open decisions.
+The folder structure and three separate requirements documents are prepared, based on the supplied `v12.twbx` and sprint brief:
 
-Static inspection identified four dashboards, 27 worksheets, ten logical tables, nine relationships, and 21 calculated fields. The document separates observed workbook configuration from proposed requirements and unrun checks. Dataset profiling, numeric KPI reconciliation, and Tableau runtime testing are still pending.
+- [DAD — Dataset Assessment Document](docs/Decathlon_DAD.pdf): four pages covering source tables, grains, relationships, data-quality controls, and assessment requirements.
+- [BRD — Business Requirements Document](docs/Decathlon_BRD.pdf): five pages covering stakeholders, business questions, scope, KPI definitions, and success criteria.
+- [FRD — Functional Requirements Document](docs/Decathlon_FRD.pdf): four pages covering dashboard behavior, filters, interactions, nonfunctional requirements, and acceptance tests.
+
+Each PDF includes its own source details, evidence limits, validation status, and open decisions. These documents replace the combined requirements PDF.
+
+Static inspection identified four dashboards, 27 worksheets, ten logical tables, nine relationships, and 21 calculated fields. The documents separate observed workbook configuration from proposed requirements and unrun checks. Dataset profiling, numeric KPI reconciliation, and Tableau runtime testing are still pending.
 
 The source `v12.twbx` was supplied for documentation and is not included in this upload. The existing `.upload_tmp/chunk_001.b64` is an incomplete older transfer, not a usable packaged workbook. Final workbook delivery, screenshots, and publication remain pending.
 
